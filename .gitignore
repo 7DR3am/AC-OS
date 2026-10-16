@@ -1,0 +1,5 @@
+*.tar.gz
+*.tar.lzma
+backup/
+.lab1_test/
+.lab1_windows_tests_*/
